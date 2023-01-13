@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YoungKoungKim/nwitter/static/css/main.ff37f1a6.css",
+    "main.js": "/YoungKoungKim/nwitter/static/js/main.c674278c.js",
+    "index.html": "/YoungKoungKim/nwitter/index.html",
+    "main.ff37f1a6.css.map": "/YoungKoungKim/nwitter/static/css/main.ff37f1a6.css.map",
+    "main.c674278c.js.map": "/YoungKoungKim/nwitter/static/js/main.c674278c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff37f1a6.css",
+    "static/js/main.c674278c.js"
+  ]
+}
